@@ -1,1 +1,0 @@
-This is my data science project if you get this file don't share and keep secure.
